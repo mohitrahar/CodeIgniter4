@@ -1,2 +1,0 @@
-<?php
-//hii thid is
